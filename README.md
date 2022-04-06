@@ -12,8 +12,8 @@
 </p>
 <p align="center">
 <a href="https://t.me/abhisheksvlog"><img alt="Telegram" src="https://img.shields.io/badge/Abhishek-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://t.me/cinemaenglish123">
-    &nbsp;<img src="https://img.shields.io/badge/CINEMA MALAYALAM-Group-blue?style=flat-square&logo=telegram" width="200" height="28">&nbsp;
+<a href="https://t.me/MovieHubOfficialGroup">
+    &nbsp;<img src="https://img.shields.io/badge/Mᴏᴠɪᴇ Hᴜʙ Oғғɪᴄɪᴀʟ-Group-blue?style=flat-square&logo=telegram" width="200" height="28">&nbsp;
   </a>
 </p>
 <p align="center">
