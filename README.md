@@ -61,6 +61,11 @@ THANKYOU FOR VISITING MY PROFILE 😊
 </p>
     
 
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on bots
+- 🤔 I’m looking for help with nah
+- 💬 Ask me about only codes
+- 📫 How to reach me: [Abhishek](https://t.me/abhisheksvlog)
 <!--
 **200920082007/200920082007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
